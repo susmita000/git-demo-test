@@ -9,5 +9,6 @@ public class App
     	int sum;
     	sum=i+j;
     	System.out.println(sum );
+    	System.out.println("aaa");
     }
 }
